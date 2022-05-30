@@ -1,9 +1,9 @@
 ### Olá, tudo bem? Eu sou Addson Coutinho 👋
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estou estudando React e TypeScript
-- 📫 Contato: addsoncoutinho@hotmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente estou atuando como desenvolvedor **full stack** 
+- 🌱 Focando meus estudos em desenvolvimento web: **Ruby on Rails, React, TypeScript, Nodejs**
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/oaddson/)
+- 😄 Pronomes: **ele/dele**
 
 <div align="center">
   <a href="https://github.com/oAddson">
@@ -12,6 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
